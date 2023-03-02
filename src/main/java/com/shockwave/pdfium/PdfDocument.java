@@ -2,7 +2,7 @@ package com.shockwave.pdfium;
 
 import android.graphics.RectF;
 import android.os.ParcelFileDescriptor;
-import android.util.ArrayMap;
+import android.support.v4.util.ArrayMap;
 
 import java.util.ArrayList;
 import java.util.List;
